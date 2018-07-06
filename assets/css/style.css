@@ -1,0 +1,177 @@
+
+.tituloheader{
+
+	text-align: center;
+	font-size: 1.5rem;
+	
+	color: orange;
+}
+
+.jumbotron1 {
+
+	background-color: white;
+}
+
+.carousel-inner{
+
+	height: 60%;
+
+}
+
+.container1{
+
+	background-image: url(../img/futbolito2018.png);
+	height: 500px;
+	background-size: cover;
+	width:100%;
+
+}
+
+.container2{
+
+	background-image: url(../img/tallarin3.jpg);
+	height: 500px;
+	background-size: cover;
+	width:100%;
+
+}
+
+.container3{
+
+	background-image: url(../img/revivir1.jpg);
+	height: 500px;
+	background-size: cover;
+	width:100%;
+
+}
+
+.imgcarrusel{
+
+	height: 60%;
+}
+
+.jumbotron2 {
+
+	padding-top: 5px;
+    padding-bottom: 15px;
+    padding-left: 0;
+    background-color: white;
+}
+
+.jumbotron3 {
+
+	background-color: white;
+}
+
+.jumbotron4 {
+
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-left: 10px;
+	background-color: #337ab721;
+}
+
+.jumbotron5 {
+	background-color: rgba(255,255,255,.15);
+	padding-left: 45px;
+}
+
+
+
+h2 {
+
+    font-size: 40px;
+
+  }
+
+h1,h2 ,h3 ,h4, h5 {
+
+	color: #ffa500;
+}
+
+}
+
+h3, h5 {
+
+	color: #ffa500;
+	padding-left: 30px;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.titulonoticias{
+
+	margin-left: 50px;
+}
+
+.container-fluid{
+
+	margin-right: 0;
+    margin-left: 0;
+    margin-bottom: -70px;
+
+}
+	
+.navbar-header{
+
+	max-height: 50%;
+}
+
+.logo{
+
+	max-height: 50px;
+}
+
+.col-md-3{
+
+	text-align: center;
+	font-size: 10px;
+}
+
+.col-md-12{
+
+	text-align: center;
+}
+
+.fb {
+
+	max-height: 50px;
+}
+
+.twt {
+
+	max-height: 50px;
+}
+
+.ig {
+
+	max-height: 50px;
+}
+
+.jumbotron6 {
+
+	padding-top: 80px;
+    padding-bottom: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.jumbotron6 p{
+
+	text-align: center;
+	font-size: 14px;
+
+	
+}
+
+
+
+.thumbnail {
+
+	margin: 0;
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
